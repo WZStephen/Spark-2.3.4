@@ -1,3 +1,6 @@
+# Spark Version: 2.3.4
+# Using Scala version 2.11.8, OpenJDK 64-Bit Server VM, 1.8.0_242  
+
 # Apache Spark
 
 Spark is a fast and general cluster computing system for Big Data. It provides
